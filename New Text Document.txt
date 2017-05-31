@@ -1,0 +1,24 @@
+Suggested recipes.
+Copper Plate and 1 Iron Rod = 4 Projectiles
+1 Copper Plate = 4 Bullet Casing
+1 Coal, 1 Sulfur = 2 Powder Propellant
+4 Projectile, 4 Bullet Casing and 1 Powder Propellant = 4 Bullets
+
+[AP 1 Copper Plate, 1 Plate steel, 2 Iron Rods = 6 Projectiles]
+
+10 Bullets, 1 Iron Plate = Clip
+75 Bullets, 2 Iron Plate = Box
+350 Bullets, 4 Iron Plate = Belt
+
+
+Clips for Pistol only
+Box for SMG only
+Belt for Turret only
+
+-
+vanilla, clips stack to 200, 2k bullets
+
+clips stack to 30, 300 rounds
+boxes stack to 30, 30 * 75 = 2250 bullets, slight increase.
+Belts stack to 30, 30 * 350 = 10500, 5x as many. easily.
+

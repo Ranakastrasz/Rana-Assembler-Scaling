@@ -1,0 +1,12 @@
+
+{
+  "name": "Rana-Assembler-Scaling",
+  "version": "15.0.1",
+  "title": "Assembler Scaling",
+  "author": "Ranakastrasz",
+  "contact": "~",
+  "homepage": "",
+  "description": "Smooths out Assembler tiers, having each one a non-trivial number of steps beyond the previous one.",
+  "dependencies": ["base"],
+  "factorio_version": "0.15"
+}
